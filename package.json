@@ -1,0 +1,10 @@
+{
+  "name": "ReactT",
+  "version": "1.0.0",
+  "description": "React Test of Seed huang",
+  "author": "Seed Huang",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.3.13"
+  }
+}
